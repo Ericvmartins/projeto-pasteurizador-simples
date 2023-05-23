@@ -1,4 +1,7 @@
-# Projeto Pasteurizador Simples em C
+# Projeto Pasteurizador Simples 
+Código feito em C
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
